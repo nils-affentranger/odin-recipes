@@ -3,3 +3,5 @@
 Wohoo! Finally started with The Odin Project.
 
 While I am already quite confident in writing HTML (it's really not that hard), I want to build some really good fundamentals, like in accessibility, which often gets overshadowed.
+
+The finished site is hosted on [Github Pages](https://nils-affentranger.github.io/odin-recipes/)
